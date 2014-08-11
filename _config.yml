@@ -1,0 +1,12 @@
+# Site settings
+title: Daniel Basedow
+email: your-email@domain.com
+description: "Personal website of Daniel Basedow, mostly about software development."
+baseurl: ""
+url: "http://dbasedow.github.io"
+github_username:  dbasedow
+twitter_username: d_basedow
+
+# Build settings
+markdown: kramdown
+permalink: pretty
